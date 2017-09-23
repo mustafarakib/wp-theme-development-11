@@ -55,3 +55,4 @@ function stock_theme_metabox($options){
     return $options;
 }
 add_filter('cs_metabox_options', 'stock_theme_metabox');
+
